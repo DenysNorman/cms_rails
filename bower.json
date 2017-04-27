@@ -1,0 +1,6 @@
+{
+  "name": "Cms_text",
+  "dependencies": {
+    "sir-trevor-js": "0.5.1"
+  }
+}
